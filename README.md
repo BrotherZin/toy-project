@@ -1,8 +1,11 @@
-<h1> toy project </h1>
-<p>주제  : </p></br>
-<p>의도  : </p></br>
-<p>사용 기술  : </p></br>
-<p>컨텐츠 구상  : </p></br>
-<p>각 컨텐츠 플로우 차트  : </p></br>
-<p>주요 기능  : </p></br>
+<h1> 커플 가계부  </h1>
+<p>Tool : 인텔리제이</p>
+
+<p> Tech : Tomcat, Spring, JQuery, JSTL, AJAX </p>
+
+<p> Language : JAVA, JAVA SCRIPT, TypeScript </p>
+
+<p> DataBase : MySQL</p>
+
+<p> SCM : Git Flow</p>
 
